@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this software. Publication details will be added after acceptance."
+title: "Interpretable infrastructure-level workload status classification: reproducibility code"
+type: software
+authors:
+  - family-names: Arslan
+    given-names: Sahin
+  - family-names: Demirbaga
+    given-names: Umit
+  - family-names: Eken
+    given-names: Suleyman
+license: MIT
